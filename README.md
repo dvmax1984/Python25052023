@@ -1,7 +1,10 @@
 # Python25052023
 
 Contact
+
 name: Maksim Dvortsov
+
+
 email: maximgsm@gamil.com
 
 Запуск из ком. строки: **python task_001.py**
