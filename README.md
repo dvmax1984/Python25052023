@@ -1,11 +1,23 @@
 # Python25052023
 
-Contact
+Contact:
 
-name: Maksim Dvortsov
+    E-mail: maximgsm@gmail.com
+
+- Homework
+    - *Homework_001*
+    
+        Task002 [КОД](/Homework/Homework_001/task_002.py)
+        
+        Task004 [КОД](/Homework/Homework_001/task_004.py)
+        
+        Task006 [КОД](/Homework/Homework_001/task_006.py)
+        
+        Task008 [КОД](/Homework/Homework_001/task_008.py)
 
 
-email: maximgsm@gamil.com
+
+
 
 Запуск из ком. строки: **python task_001.py**
 
