@@ -4,4 +4,4 @@ Contact
 name: Maksim Dvortsov
 
 
-email: maximgsm@gamil.com
+email: maximgsm@gmail.com
