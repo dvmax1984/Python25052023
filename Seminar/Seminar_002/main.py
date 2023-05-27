@@ -58,11 +58,38 @@
 
 # СЛОВАРИ
 
-d = {}      # вар 1 создать словарь
-d = dict()  # вар 2 создать словарь
+# d = {}      # вар 1 создать словарь
+# d = dict()  # вар 2 создать словарь
 
-d['q'] = 'qwert'
-print(d)
+# d['q'] = 'qwert'
+# print(d)
 
-d['w'] = 'wert'
-print(d)
+# d['w'] = 'wert'
+# print(d)
+
+# list_1 = [exp for item in iterable]
+# print(*list_1) 
+
+# print(sum(
+# 	1 for x in range(1000)
+# 	if x % 2 == 0 and
+# 	'9' in str(x)
+# ))
+def get_nearest_value(n_value, n_list):
+    list_of_difs = [abs(n_value - x) for x in n_list]
+    result_index = list_of_difs.index(min(list_of_difs))
+
+    return n_list[result_index], result_index
+
+
+if __name__ == '__main__':
+    delimeter = 0.1           # различные тестовые условия
+    max_range = 100000        # различные тестовые условия
+    test_list = [delimeter * (x + 1) for x in range(max_range)]
+
+    test_value = 100000 #7711.63  # любое число
+
+    print()
+    print('тестовое значение:', test_value)
+    print('ближайшее значение:', get_nearest_value(test_value, test_list)[0])
+    print('на позиции:', get_nearest_value(test_value, test_list)[1], 'считая от нуля')
