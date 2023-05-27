@@ -12,7 +12,7 @@ print(f'Подсказка от Пети: сумма S = {x+y} {x} {y}, прои
 answerX = int(input('Катя: введи первое загаданное число: '))
 answerY = int(input('Катя: введи второе загаданное число: '))
 
-if (answerX == x & answerY == y): # or (answerX == y & answerY == x):
+if (answerX == x and answerY == y) or (answerX == y and answerY == x):
     print('Катя, ты умница, угадала!')
 else:
     print('Катя, попробуй еще раз')
