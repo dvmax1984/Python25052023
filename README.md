@@ -15,13 +15,21 @@ Contact:
         
         Task008 [КОД](/Homework/Homework_001/task_008.py)
 
-    - **Homework_002**
+    - Homework_002
     
         Task010 [КОД](/Homework/Homework_002/task_010.py)
         
         Task012 [КОД](/Homework/Homework_002/task_012.py)
         
         Task014 [КОД](/Homework/Homework_002/task_014.py)
+
+    - **Homework_003**
+    
+        Task016 [КОД](/Homework/Homework_003/task_016.py)
+        
+        Task019 [КОД](/Homework/Homework_003/task_019.py)
+        
+        Task020 [КОД](/Homework/Homework_003/task_020.py)
 
 
 
