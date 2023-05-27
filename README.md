@@ -5,7 +5,7 @@ Contact:
     E-mail: maximgsm@gmail.com
 
 - Homework
-    - *Homework_001*
+    - Homework_001
     
         Task002 [КОД](/Homework/Homework_001/task_002.py)
         
