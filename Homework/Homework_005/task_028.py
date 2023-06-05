@@ -3,3 +3,17 @@
 # *Пример:*
 # 2 2
 #     4 
+
+def recSum(a,b):
+    if a == b:
+        return a
+    
+    r = a + a
+
+    return recSum(a+1,b)
+
+
+a = int(input('Введите число a: '))
+b = int(input('Введите число b: '))
+
+print(recSum(a, b))

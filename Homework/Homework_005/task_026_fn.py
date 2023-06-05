@@ -1,6 +1,10 @@
-def st(a,b,c,r):    
-    if c >= b:         
-        return r
-    r = a * r
-    return st(a,b,c+1,r)  
+def st(a,b,count,result):    
+    
+    if count >= b:         
+        return result
+    
+    
+    result = a * result
+
+    return st(a,b,count+1,result)  
     
