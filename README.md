@@ -39,7 +39,7 @@ Contact:
 
     - **Homework_005**
     
-        Task026 [КОД](/Homework/Homework_005/task_026.py)
+        Task026 [КОД](/Homework/Homework_005/task_026_main.py)
         
         Task028 [КОД](/Homework/Homework_005/task_028.py)
 
