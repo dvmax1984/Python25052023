@@ -33,17 +33,17 @@ Contact:
 
     - Homework_004
     
-        Task022 [КОД](/Homework/Homework_003/task_022.py)
+        Task022 [КОД](/Homework/Homework_004/task_022.py)
         
-        Task024 [КОД](/Homework/Homework_003/task_024.py)
+        Task024 [КОД](/Homework/Homework_004/task_024.py)
 
     - **Homework_005**
     
-        Task026 [КОД](/Homework/Homework_003/task_026.py)
+        Task026 [КОД](/Homework/Homework_005/task_026.py)
         
-        Task028 [КОД](/Homework/Homework_003/task_028.py)
+        Task028 [КОД](/Homework/Homework_005/task_028.py)
 
-        
+
 
 Запуск из ком. строки: **python task_001.py**
 
