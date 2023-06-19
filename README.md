@@ -37,12 +37,17 @@ Contact:
         
         Task024 [КОД](/Homework/Homework_004/task_024.py)
 
-    - **Homework_005**
+    - Homework_005
     
         Task026 [КОД](/Homework/Homework_005/task_026_main.py)
         
         Task028 [КОД](/Homework/Homework_005/task_028.py)
 
+    - **Homework_006**
+    
+        Task030 [КОД](/Homework/Homework_006/task_030.py)
+        
+        Task032 [КОД](/Homework/Homework_006/task_032.py)
 
 
 Запуск из ком. строки: **python task_001.py**
